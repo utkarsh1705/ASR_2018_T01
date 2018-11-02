@@ -6,6 +6,7 @@
 4) Run ```python test.py``` .This command tests the trained model and returns the frame level accuracy.
 5) Run ```wer GroudTruth Prediction``` . This command returns the W.E.R
 ## Referances:-
+
 - [http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html](http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html)
-    - [http://www.pitt.edu/~naraehan/python2/pickling.html](http://www.pitt.edu/~naraehan/python2/pickling.html)
-    - [https://github.com/belambert/asr-evaluation](https://github.com/belambert/asr-evaluation)
+- [http://www.pitt.edu/~naraehan/python2/pickling.html](http://www.pitt.edu/~naraehan/python2/pickling.html)
+- [https://github.com/belambert/asr-evaluation](https://github.com/belambert/asr-evaluation)
