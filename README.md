@@ -13,4 +13,4 @@
 
 ## Results:-
 
-![Alt text]("https://github.com/utkarsh1705/ASR_2018_T01/blob/master/p1/results/results.png")
+![Results](https://github.com/utkarsh1705/ASR_2018_T01/blob/master/p1/results/results.png)
