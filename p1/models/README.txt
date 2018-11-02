@@ -1,0 +1,1 @@
+"Model.plk" model trained for MFCC + Delta + Delta-Delta with energy and 4 mixture. 
